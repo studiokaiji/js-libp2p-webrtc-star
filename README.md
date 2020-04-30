@@ -12,7 +12,8 @@
 [![](https://raw.githubusercontent.com/libp2p/interface-connection/master/img/badge.png)](https://github.com/libp2p/interface-connection)
 [![](https://github.com/libp2p/interface-peer-discovery/raw/master/img/badge.png)](https://github.com/libp2p/interface-peer-discovery)
 
-> libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star
+> libp2p WebRTC transport that includes a discovery mechanism provided by the signalling-star.
+
 > This project does not guarantee any operation because it is an experiment for video chat on js-libp2p-webrtc-star. We also do not recommend using this project in a production environment.
 
 ## Lead Maintainer
